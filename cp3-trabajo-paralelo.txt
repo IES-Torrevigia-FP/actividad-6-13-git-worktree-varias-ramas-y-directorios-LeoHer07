@@ -1,0 +1,2 @@
+/home/leo/Documentos/dev/actividad-6-13-git-worktree-varias-ramas-y-directorios-LeoHer07/actividad-6-13-git-worktree  cc51cd4 [main]
+/home/leo/Documentos/dev/actividad-6-13-git-worktree-varias-ramas-y-directorios-LeoHer07/wt-feature-a                 581b692 [feature-a]

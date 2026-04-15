@@ -1,0 +1,4 @@
+fc399d1 Añade funcionalidad A
+1c01a60 Commit inicial en main
+  feature-a
+* main

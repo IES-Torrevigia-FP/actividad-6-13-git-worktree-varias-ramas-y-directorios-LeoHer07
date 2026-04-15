@@ -1,0 +1,9 @@
+Comando utilizado: git worktree remove ../wt-feature-a
+
+Salida de git worktree list antes:
+/home/leo/Documentos/dev/actividad-6-13-git-worktree-varias-ramas-y-directorios-LeoHer07/actividad-6-13-git-worktree  cc51cd4 [main]
+/home/leo/Documentos/dev/actividad-6-13-git-worktree-varias-ramas-y-directorios-LeoHer07/wt-feature-b                 91cd57a [feature-b]
+
+Salida después:
+/home/leo/Documentos/dev/actividad-6-13-git-worktree-varias-ramas-y-directorios-LeoHer07/actividad-6-13-git-worktree  cc51cd4 [main]
+/home/leo/Documentos/dev/actividad-6-13-git-worktree-varias-ramas-y-directorios-LeoHer07/wt-feature-b                 91cd57a [feature-b]
